@@ -1,0 +1,23 @@
+.main {
+  width: auto;
+  padding: 0 92px 0 0;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+
+.image {
+  width: 13px;
+  height: 18px;
+  margin-right: 17px;
+}
+
+.volume__progress {
+  width: 109px;
+  cursor: pointer;
+}
+
+.volume__progressLine {
+  width: 109px;
+  cursor: pointer;
+}
